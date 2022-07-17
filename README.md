@@ -3,9 +3,9 @@
 Чтобы собрать и запустить приложение, которое вам нужно иметь на своем ПК:
 
 * JDK 11 или новее 
-<br> *NodeJS </br>
-<br> *Angular CLI </br>
-<br> *MySQL </br>
+* NodeJS 
+* Angular CLI 
+* MySQL 
 
 Чтобы установить Angular CLI, выполните команду
 <br> `npm install -g @angular/cli` </br>
