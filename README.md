@@ -1,5 +1,4 @@
 # TUBE
-====
 
 Чтобы собрать и запустить приложение, которое вам нужно иметь на своем ПК:
 
@@ -9,7 +8,7 @@
 <br> MySQL </br>
 
 Чтобы установить Angular CLI, выполните команду
-npm install -g @angular/cli
+<br> `npm install -g @angular/cli` </br>
 
 Установка пакетов NodeJS 
 npm i
